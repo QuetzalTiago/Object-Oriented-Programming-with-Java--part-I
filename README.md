@@ -1,4 +1,19 @@
 # Object-Oriented-Programming-with-Java-part-I
-MOOC (Massive Open Online Course) de la Universidad de Helsinki
+MOOC (Massive Open Online Course)
 --
-Programming Java course in english of 12 weeks, divided in two parts. 
+Curso de programación de Java orientado a objetos hecho por la Universidad de Helsinki.
+Consiste en 12 semanas, divididas en dos partes.
+
+Lo aprendido:
+- User input
+- Printing on screen
+- Conditional statements
+- Loops
+- Basics of methods
+- Methods
+- The ArrayList data structure
+- Basics of objects
+- More on objects
+- Tables
+- Sorting
+- Searching
